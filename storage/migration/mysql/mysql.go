@@ -10,10 +10,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/blue-jay/core/file"
-	"github.com/blue-jay/core/storage"
-	database "github.com/blue-jay/core/storage/driver/mysql"
-	"github.com/blue-jay/core/storage/migration"
+	"github.com/stefanwuthrich/core/file"
+	"github.com/stefanwuthrich/core/storage"
+	database "github.com/stefanwuthrich/core/storage/driver/mysql"
+	"github.com/stefanwuthrich/core/storage/migration"
 	"github.com/jmoiron/sqlx"
 )
 

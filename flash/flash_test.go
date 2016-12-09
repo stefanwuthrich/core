@@ -6,9 +6,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/blue-jay/core/flash"
-	"github.com/blue-jay/core/session"
-	"github.com/blue-jay/core/view"
+	"github.com/stefanwuthrich/core/flash"
+	"github.com/stefanwuthrich/core/session"
+	"github.com/stefanwuthrich/core/view"
 
 	"github.com/gorilla/sessions"
 )

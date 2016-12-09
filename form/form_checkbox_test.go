@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/form"
+	"github.com/stefanwuthrich/core/form"
 )
 
 // TestFormCheckbox ensures input is parsed correctly.

@@ -3,7 +3,7 @@ package find_test
 import (
 	"testing"
 
-	"github.com/blue-jay/core/find"
+	"github.com/stefanwuthrich/core/find"
 )
 
 // TestRun ensures find works properly.

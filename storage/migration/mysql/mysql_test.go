@@ -10,9 +10,9 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/blue-jay/core/storage"
-	"github.com/blue-jay/core/storage/migration"
-	"github.com/blue-jay/core/storage/migration/mysql"
+	"github.com/stefanwuthrich/core/storage"
+	"github.com/stefanwuthrich/core/storage/migration"
+	"github.com/stefanwuthrich/core/storage/migration/mysql"
 
 	"github.com/jmoiron/sqlx"
 )

@@ -5,7 +5,7 @@ import (
 	"net/url"
 	"testing"
 
-	"github.com/blue-jay/core/form"
+	"github.com/stefanwuthrich/core/form"
 )
 
 // TODO Add a test for Required() and FormFile

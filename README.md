@@ -1,8 +1,8 @@
 lok ver
 # Blue Jay - Core
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/blue-jay/core)](https://goreportcard.com/report/github.com/blue-jay/core)
-[![GoDoc](https://godoc.org/github.com/blue-jay/core?status.svg)](https://godoc.org/github.com/blue-jay/core)
+[![Go Report Card](https://goreportcard.com/badge/github.com/stefanwuthrich/core)](https://goreportcard.com/report/github.com/stefanwuthrich/core)
+[![GoDoc](https://godoc.org/github.com/stefanwuthrich/core?status.svg)](https://godoc.org/github.com/stefanwuthrich/core)
 [![Coverage Status](https://coveralls.io/repos/github/blue-jay/core/badge.svg?branch=master)](https://coveralls.io/github/blue-jay/core?branch=master)
 
 Core packages available to Blueprint and Jay as well as other applications.
@@ -22,8 +22,8 @@ model-view-controller (MVC) style web skeleton.
 - [**Jay**](https://github.com/blue-jay/jay) is a command-line tool with
 modules for find/replace, database migrations, code generation, and env.json.
 
-- [**Core**](https://github.com/blue-jay/core) is a collection of packages
+- [**Core**](https://github.com/stefanwuthrich/core) is a collection of packages
 available to Blueprint and Jay as well as other applications.
 
-Check the [milestones](https://github.com/blue-jay/core/milestones) for
+Check the [milestones](https://github.com/stefanwuthrich/core/milestones) for
 project status.
