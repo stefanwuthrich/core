@@ -1,3 +1,4 @@
+lok ver
 # Blue Jay - Core
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/blue-jay/core)](https://goreportcard.com/report/github.com/blue-jay/core)
