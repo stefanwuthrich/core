@@ -4,8 +4,8 @@ package storage
 import (
 	"encoding/json"
 
-	"github.com/blue-jay/core/jsonconfig"
-	"github.com/blue-jay/core/storage/driver/mysql"
+	"github.com/stefanwuthrich/core/jsonconfig"
+	"github.com/stefanwuthrich/core/storage/driver/mysql"
 )
 
 // Info contains the database connection information for the different storage.

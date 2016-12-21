@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/blue-jay/core/view"
+	"github.com/stefanwuthrich/core/view"
 )
 
 // TestRender ensures the view is rendered properly.

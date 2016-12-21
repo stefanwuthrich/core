@@ -2,7 +2,7 @@
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/blue-jay/core)](https://goreportcard.com/report/github.com/blue-jay/core)
 [![GoDoc](https://godoc.org/github.com/blue-jay/core?status.svg)](https://godoc.org/github.com/blue-jay/core)
-[![Coverage Status](https://coveralls.io/repos/github/blue-jay/core/badge.svg?branch=master)](https://coveralls.io/github/blue-jay/core?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/stefanwuthrich/core/badge.svg?branch=master)](https://coveralls.io/github/blue-jay/core?branch=master)
 
 Core packages available to Blueprint and Jay as well as other applications.
 
@@ -24,5 +24,5 @@ modules for find/replace, database migrations, code generation, and env.json.
 - [**Core**](https://github.com/blue-jay/core) is a collection of packages
 available to Blueprint and Jay as well as other applications.
 
-Check the [milestones](https://github.com/blue-jay/core/milestones) for
+Check the [milestones](https://github.com/stefanwuthrich/core/milestones) for
 project status.
